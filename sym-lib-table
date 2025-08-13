@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "digikey_flip_flop")(type "KiCad")(uri "${KIPRJMOD}/library/digikey/digikey-symbols")(options "")(descr ""))
+)
