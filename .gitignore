@@ -1,8 +1,10 @@
-# KiCad backup/autosave
+# KiCad backups & autosaves
 *-backups/
 *.kicad_sch-bak
 *.kicad_pcb-bak
 __autosave-*
+# Autosave folders
+#auto_saved_files#
 
-# KiCad cache
-fp-info-cache
+# KiCad user-specific files
+*.kicad_prl
