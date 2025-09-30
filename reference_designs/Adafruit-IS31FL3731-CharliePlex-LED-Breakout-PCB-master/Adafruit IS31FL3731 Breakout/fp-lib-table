@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Adafruit IS31FL3731 Breakout")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit IS31FL3731 Breakout.pretty")(options "")(descr ""))
-)

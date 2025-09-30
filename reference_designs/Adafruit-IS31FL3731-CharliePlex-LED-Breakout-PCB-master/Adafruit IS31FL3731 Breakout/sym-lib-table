@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "Adafruit IS31FL3731 Breakout-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit IS31FL3731 Breakout-eagle-import.kicad_sym")(options "")(descr ""))
-)

@@ -1,10 +1,35 @@
-# KiCad backups & autosaves
-*-backups/
-*.kicad_sch-bak
-*.kicad_pcb-bak
-__autosave-*
-# Autosave folders
-#auto_saved_files#
-
-# KiCad user-specific files
+# KiCad autosave and lock files
+*.bak
+*.bck
 *.kicad_prl
+*.tmp
+*.lck
+*-backups/
+
+# KiCad cache and generated files
+fp-info-cache
+fp-lib-table-bak
+sym-lib-table-bak
+
+# Ignore all files by default
+*
+
+# Keep these folders
+!datasheets/
+!gerbers/
+!library/
+!reference_designs/
+
+# Keep KiCad main project files
+!*.kicad_pro
+!*.kicad_sch
+!*.kicad_pcb
+
+# Keep symbol library table
+!sym-lib-table
+
+# Keep .gitignore and .gitmodules
+!.gitignore
+!.gitmodules
+
+
